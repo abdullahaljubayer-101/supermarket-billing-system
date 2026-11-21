@@ -1,0 +1,11 @@
+# Compiled output
+out/
+*.class
+
+# IntelliJ IDEA settings (the .iml module file is kept so the project opens as-is)
+.idea/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
